@@ -51,3 +51,35 @@ Key reasons include:
    - Improves customer satisfaction and product reliability.  
 
 
+## Key Activities in Requirement Analysis
+
+Requirement Analysis consists of several important activities that ensure the system is well-understood before development begins.  
+
+### 1. Requirement Gathering 🗂️
+- **Interviews:** Collect detailed information from stakeholders.  
+- **Surveys/Questionnaires:** Capture requirements from a larger audience.  
+- **Workshops:** Collaborate with stakeholders to refine needs.  
+- **Observation:** Study end-users in their real environment.  
+- **Document Analysis:** Review existing systems and documentation.  
+
+### 2. Requirement Elicitation ✍️
+- **Brainstorming:** Generate ideas and explore possible solutions.  
+- **Focus Groups:** Conduct group discussions with selected stakeholders.  
+- **Prototyping:** Use mockups or prototypes to clarify requirements.  
+
+### 3. Requirement Documentation 📚
+- **Requirement Specification Document (SRS):** Formal record of all requirements.  
+- **User Stories:** Describe functionalities from the user’s perspective.  
+- **Use Cases:** Show system interactions through diagrams.  
+
+### 4. Requirement Analysis and Modeling 📊
+- **Prioritization:** Rank requirements based on importance and impact.  
+- **Feasibility Analysis:** Assess if requirements are realistic within constraints.  
+- **Modeling:** Create diagrams (e.g., DFDs, ER diagrams) to visualize requirements.  
+
+### 5. Requirement Validation ✅
+- **Review and Approval:** Confirm requirements with stakeholders.  
+- **Acceptance Criteria:** Define measurable conditions for success.  
+- **Traceability:** Ensure all requirements are covered during development and testing.  
+
+
