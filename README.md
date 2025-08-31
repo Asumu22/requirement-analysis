@@ -100,6 +100,33 @@ Requirements are generally classified into two categories: **Functional** and **
 ### Non-functional Requirements 🛡️
 **Definition:** Non-functional requirements describe *how the system should perform*. They define quality attributes such as performance, security, and usability.  
 
+## Use Case Diagrams 📊
+
+### What are Use Case Diagrams?
+Use case diagrams are visual representations that show **how different users (actors) interact with a system** to achieve specific goals (use cases).  
+
+They are widely used in requirement analysis to:  
+- Provide a clear visual representation of system functionality.  
+- Help identify and organize system requirements.  
+- Facilitate communication between stakeholders and developers.  
+
+### Booking Management System Use Case Diagram
+
+**Actors:**  
+- **Guest:** A user who can browse and search properties without registering.  
+- **Registered User:** A user who can register, log in, and book properties.  
+- **Admin:** A system administrator who manages property listings and bookings.  
+
+**Use Cases:**  
+- Search Properties  
+- Register / Login  
+- Book Property  
+- Manage Bookings  
+- Manage Property Listings  
+
+📌 *Diagram:*  
+![Use Case Diagram](./alx-booking-uc.png)
+
 **Examples for the Booking Management System:**  
 - **Performance:** The system must load pages within 2 seconds and support at least 1000 concurrent users.  
 - **Security:** Data should be encrypted, with secure login and protection against vulnerabilities.  
