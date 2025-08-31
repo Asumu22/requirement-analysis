@@ -134,3 +134,26 @@ They are widely used in requirement analysis to:
 - **Usability:** The user interface should be simple, intuitive, and easy to navigate.  
 - **Reliability:** Ensure 99.9% uptime and fast recovery from failures.  
 
+## Acceptance Criteria ✅
+
+### What is Acceptance Criteria?
+Acceptance criteria are **conditions that a feature must satisfy to be accepted** by stakeholders.  
+They are **specific, measurable, and testable**, ensuring the delivered feature meets expectations.
+
+### Importance of Acceptance Criteria
+- Provides a **clear definition of “done”** for each feature.  
+- Serves as a **basis for testing and validation**.  
+- Ensures **all stakeholders agree** on what the feature should achieve.  
+- Helps maintain **quality and consistency** across the project.  
+
+### Example – Booking Feature
+For the Booking Management System, an example of acceptance criteria for the **Book Property** feature could be:
+
+1. Users must be able to **select available dates** for a property.  
+2. Users must be able to **confirm the booking** with valid details.  
+3. The system must **send a booking confirmation email** within 2 minutes.  
+4. The booking should be **recorded accurately** in the user’s account.  
+5. Only **available properties** can be booked; unavailable properties cannot be selected.  
+
+By meeting these criteria, the feature can be considered **successfully implemented** and ready for deployment.
+
